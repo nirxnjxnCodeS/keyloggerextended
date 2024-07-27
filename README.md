@@ -1,6 +1,4 @@
 # keyloggerextended
-This repository contains an advanced keylogger designed for educational purposes. The keylogger
-
 This repository contains an advanced keylogger designed for educational purposes. The keylogger includes a range of functionalities to gather comprehensive information from the target system. Key features include:
 
 - **Basic Keylogging**: Captures all keystrokes made on the target system.
